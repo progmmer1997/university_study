@@ -1,0 +1,5 @@
+animals=("Cow","Pig","Chicken")
+animal_products=("gives milk.","gives pork.","gives eggs.")
+print(animals[0]+" "+animal_products[0],sep="")
+print(animals[1]+" "+animal_products[1],sep="")
+print(animals[2]+" "+animal_products[2],sep="")
